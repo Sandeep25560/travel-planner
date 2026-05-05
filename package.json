@@ -1,4 +1,8 @@
 {
+  "name": "travelsync",
+  "private": true,
+  "version": "1.0.0",
+  "type": "module",
   "scripts": {
     "dev": "vite --host 0.0.0.0",
     "build": "vite build",
@@ -9,7 +13,6 @@
     "vite": "latest",
     "react": "latest",
     "react-dom": "latest",
-    "typescript": "latest",
     "lucide-react": "latest"
   },
   "devDependencies": {}
